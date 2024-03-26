@@ -16,3 +16,4 @@ Array.prototype.last = function() {
         return last;
     }
 };
+
