@@ -1,3 +1,4 @@
+//Three Consecutive Odds
 var threeConsecutiveOdds = function (arr) {
   if (arr.length < 3) {
     return false;
